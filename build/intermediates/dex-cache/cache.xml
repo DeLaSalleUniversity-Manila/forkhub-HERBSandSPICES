@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Apps\forkhub\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Apps\forkhub\app\build\intermediates\pre-dexed\debug\classes-f7cf855d57597c828364d4ae7835c4410febce27.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.google.inject.extensions\guice-assistedinject\3.0\544449ddb19f088dcde44f055d30a08835a954a7\guice-assistedinject-3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="544449ddb19f088dcde44f055d30a08835a954a7">
+        <dex dex="D:\Apps\forkhub\app\build\intermediates\pre-dexed\debug\guice-assistedinject-3.0-92599cca4e9644ed6bcada8506295d8110a8c642.jar" />
+    </item>
+    <item
+        jar="D:\Apps\forkhub\app\build\intermediates\exploded-aar\com.viewpagerindicator\library\2.4.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="88e8e18d365173ad04a543d76c157e0b644f0b3f">
+        <dex dex="D:\Apps\forkhub\app\build\intermediates\pre-dexed\debug\classes-3d24ffdf8db6aac287a9a1b7bdde8edfd88b0a38.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Apps\forkhub\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-277cb999854a20329bc77d9de3c6245b35d5e66e.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.google.inject\guice\3.0\28586dc97c525501329d9a242fc3402041e3572d\guice-3.0-no_aop.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="28586dc97c525501329d9a242fc3402041e3572d">
+        <dex dex="D:\Apps\forkhub\app\build\intermediates\pre-dexed\debug\guice-3.0-no_aop-25cf1cc41a1a2f18f040cd584af466f4b9f86b1e.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.6.0\212387a39088ecd3daff8e3bfc3bdc4123e33c67\okhttp-2.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="212387a39088ecd3daff8e3bfc3bdc4123e33c67">
+        <dex dex="D:\Apps\forkhub\app\build\intermediates\pre-dexed\debug\okhttp-2.6.0-76c8300d6af571dd3e696934d4aa3cf046b5e104.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="D:\Apps\forkhub\app\build\intermediates\pre-dexed\debug\gson-2.4-1c1df735627866df3a65ae36e9b1035d091b8818.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\asm\asm\3.1\c157def142714c544bdea2e6144645702adf7097\asm-3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c157def142714c544bdea2e6144645702adf7097">
+        <dex dex="D:\Apps\forkhub\app\build\intermediates\pre-dexed\debug\asm-3.1-ace8b9129b82ec5cb5b09f3dcce7761be71772b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\aopalliance\aopalliance\1.0\235ba8b489512805ac13a8f9ea77a1ca5ebe3e8\aopalliance-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0235ba8b489512805ac13a8f9ea77a1ca5ebe3e8">
+        <dex dex="D:\Apps\forkhub\app\build\intermediates\pre-dexed\debug\aopalliance-1.0-e5a8971f05854dedf4cbc08c03c6acb6aae2e000.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\Apps\forkhub\app\build\intermediates\pre-dexed\debug\javax.inject-1-d507a799ca6437e1668372aac4e1b7f7a5a5919f.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\org.sonatype.sisu.inject\cglib\2.2.1-v20090111\7ce5e983fd0e6c78346f4c9cbfa39d83049dda2\cglib-2.2.1-v20090111.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="07ce5e983fd0e6c78346f4c9cbfa39d83049dda2">
+        <dex dex="D:\Apps\forkhub\app\build\intermediates\pre-dexed\debug\cglib-2.2.1-v20090111-03d8e71638adb50a3a949c13983648c3100cac03.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Apps\forkhub\app\build\intermediates\pre-dexed\debug\okio-1.6.0-71e5cd05ee87ce80008ad79e91b28c2037bcf3a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Apps\forkhub\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-596b4e77fa0209008cb500ba04c21d575d754025.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\org.roboguice\roboguice\2.0\727ccb8f376109d0b5c44abca6f791dccc5c5dbc\roboguice-2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="727ccb8f376109d0b5c44abca6f791dccc5c5dbc">
+        <dex dex="D:\Apps\forkhub\app\build\intermediates\pre-dexed\debug\roboguice-2.0-16e3e223b94d4a3b97c164e043fe3c92c1224461.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.6.0\f1c87f9ffe72bfcdce6f2514d12e42ed43410a87\okhttp-urlconnection-2.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f1c87f9ffe72bfcdce6f2514d12e42ed43410a87">
+        <dex dex="D:\Apps\forkhub\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-2.6.0-aa52abc9101fd81b714fcfdfc3a190400316452b.jar" />
+    </item>
+    <item
+        jar="D:\Apps\forkhub\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Apps\forkhub\app\build\intermediates\pre-dexed\debug\classes-77604593dc9088faf8c61d912dfb981e4130fb16.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\org.eclipse.mylyn.github\org.eclipse.egit.github.core\4.1.0.201509280440-r\5f9cb055c72e72b5417049f68d17e08f6a2b8eb8\org.eclipse.egit.github.core-4.1.0.201509280440-r.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5f9cb055c72e72b5417049f68d17e08f6a2b8eb8">
+        <dex dex="D:\Apps\forkhub\app\build\intermediates\pre-dexed\debug\org.eclipse.egit.github.core-4.1.0.201509280440-r-d66489b9733d20d8c5a0fb9d15f428be9da39dea.jar" />
+    </item>
+    <item
+        jar="D:\Apps\forkhub\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="D:\Apps\forkhub\app\build\intermediates\pre-dexed\debug\classes-82988828ec664c89c1bf82ef4eb909c68e0086c4.jar" />
+    </item>
+    <item
+        jar="D:\Apps\forkhub\app\build\intermediates\exploded-aar\lib\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="49e9a4f74ab4e7c33b6739fb51e73e30554a537e">
+        <dex dex="D:\Apps\forkhub\app\build\intermediates\pre-dexed\debug\classes-fd9261287c720064d7fd8e2356462481fd95fdc5.jar" />
+    </item>
+    <item
+        jar="D:\Apps\forkhub\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Apps\forkhub\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-8f1832cabfeda753a349d730f63bdc33ee351e5c.jar" />
+    </item>
+
+</items>
